@@ -19,13 +19,13 @@ Ao todo, no projeto contém os seguintes programas:
 
 ### [Carshare](https://github.com/JoaoHenriqueBR/Auto-Maps/blob/main/carshare.py)
 
-![Carshare](https://rawgithubusercontent.com/JoaoHenriqueBR/Auto-Maps/main/img/carshare.png)
+![Carshare](https://raw.githubusercontent.com/JoaoHenriqueBR/Auto-Maps/main/img/carshare.png)
 
 Script simples que abre uma aba no seu navegador com informações sobre quantidades de carros e horários de picos do trãnsito em um determinado lugar.
 
 ### [Mapa de Rotas para Automóveis](https://github.com/JoaoHenriqueBR/Auto-Maps/blob/main/mapa.ipynb)
 
-![Mapa](https://rawgithubusercontent.com/JoaoHenriqueBR/Auto-Maps/main/img/Mapa.png)
+![Mapa](https://raw.githubusercontent.com/JoaoHenriqueBR/Auto-Maps/main/img/Mapa.png)
 
 - Arquivo em Notebook (Python), em que você usa o **CEP** para criar uma rota de um Ponto de Partida até um Local de Chegada;
 - Como é feito em Notebook, cada parte do código pode ser executado separadamente e cada detalhe é documentado;
